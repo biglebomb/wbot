@@ -36,7 +36,7 @@
     "axios": "^0.19.2",
     "base64-img": "^1.0.4",
     "cli-progress": "^2.1.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "image-to-base64": "^2.0.1",
     "mime": "^2.4.4",
     "node-fetch": "^2.3.0",
